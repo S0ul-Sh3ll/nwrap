@@ -20,7 +20,7 @@ Created by: **Rishabh Dahiya**
 
 Clone the repository and run the install script:
 
-```git clone [https://github.com/S0ul-Sh3ll/nwrap.git](https://github.com/S0ul-Sh3ll/nwrap.git)```
+```git clone https://github.com/S0ul-Sh3ll/nwrap.git```
 ```cd nwrap```
 ```sudo ./install.sh```
 
