@@ -22,6 +22,7 @@ Clone the repository and run the install script:
 
 ```git clone https://github.com/S0ul-Sh3ll/nwrap.git```
 ```cd nwrap```
+```chmod +x install.sh```
 ```sudo ./install.sh```
 
 ---
