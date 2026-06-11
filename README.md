@@ -67,3 +67,7 @@ View your current active target and all saved profiles:
 
 <img width="586" height="512" alt="image" src="https://github.com/user-attachments/assets/d79d1117-64e6-4e89-9abe-cb84aea13140" />
 
+<img width="800" height="450" alt="nwrap-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e9e83df3-4be5-45c8-8027-ea6b89c8ca85" />
+
+
+
