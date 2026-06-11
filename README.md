@@ -64,3 +64,6 @@ View your current active target and all saved profiles:
 ```nwrap ls```
 
 <ins>Disclaimer: This is a personal utility intended for individual use. Use responsibly, legally, and entirely at your own risk.</ins>
+
+<img width="586" height="512" alt="image" src="https://github.com/user-attachments/assets/d79d1117-64e6-4e89-9abe-cb84aea13140" />
+
